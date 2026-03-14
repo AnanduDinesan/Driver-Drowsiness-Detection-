@@ -1,2 +1,3 @@
 .venv/
 MRL_1/
+*.npy
